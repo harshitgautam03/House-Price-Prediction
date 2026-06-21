@@ -87,25 +87,20 @@ Performance:
 
 
 ## 📁 Project Structure
-│
 
+```text
+HousePricePrediction
+│
 ├── analysis.ipynb
-
 ├── Housing.csv
-
 ├── summary.docx
-
 │
-
 └── charts
-
-├── price_distribution.png
-
-├── correlation_heatmap.png
-
-├── actual_vs_predicted.png
-
-└── feature_importance.png
+    ├── price_distribution.png
+    ├── correlation_heatmap.png
+    ├── actual_vs_predicted.png
+    └── feature_importance.png
+```
 
 ## 👨‍💻 Author
 
