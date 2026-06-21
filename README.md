@@ -60,12 +60,26 @@ Performance:
 
 ## 📊 Visualizations
 
-The project includes:
+## 📊 Visualizations
 
-- House price distribution
-- Feature correlation heatmap
-- Actual vs predicted price comparison
-- Feature importance analysis
+### House Price Distribution
+
+![Price Distribution](charts/price_distribution.png)
+
+
+### Feature Correlation Heatmap
+
+![Correlation Heatmap](charts/correlation_heatmap.png)
+
+
+### Actual vs Predicted Prices
+
+![Actual vs Predicted](charts/actual_vs_predicted.png)
+
+
+### Feature Importance
+
+![Feature Importance](charts/feature_importance.png)
 
 
 ## 🔍 Key Insights
