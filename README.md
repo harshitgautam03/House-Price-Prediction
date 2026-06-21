@@ -57,9 +57,6 @@ Performance:
 - RMSE: 1401497
 - R² Score: 0.61
 
-
-## 📊 Visualizations
-
 ## 📊 Visualizations
 
 ### House Price Distribution
@@ -90,3 +87,14 @@ Performance:
 
 
 ## 📁 Project Structure
+HousePricePrediction
+│
+├── analysis.ipynb
+├── Housing.csv
+├── summary.docx
+└── charts
+
+
+## 👨‍💻 Author
+
+Harshit Gautam
